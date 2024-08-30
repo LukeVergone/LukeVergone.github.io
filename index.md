@@ -2,5 +2,5 @@
 
 ### Profile
 - **Started**: 20 August 2024
-- **Role**: Software Developer
-- **Hobbies**: Music, Films, Videogames and making things
+- **Role**: Environmental Scientist; Software Developer
+- **Hobbies**: Music, Films, Videogames, Home renovation projects and making things
